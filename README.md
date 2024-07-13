@@ -1,3 +1,3 @@
 A javascript [Three.js](http://threejs.org/) maze game.
 
-Demo: 
+Demo:  https://antranquoc.github.io/MazeWebGame/
